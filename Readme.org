@@ -3,3 +3,16 @@
 * Description
 
 This repository is used for Arduino experiments
+
+
+* Howto
+
+** Setup
+
+1. Download and run the setup for [[https://www.arduino.cc/en/software][Arduino IDE]]
+
+
+* References
+
+** Arduino IDE: https://www.arduino.cc/en/software
+** Tutorial for beginner and advanced users (German): https://funduino.de/anleitung
